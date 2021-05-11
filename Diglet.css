@@ -1,0 +1,164 @@
+body{
+    background-color: green;
+}
+.wrapper {
+    margin: 50px;
+}
+
+.face{
+    width: 150px;
+    height: 200px;
+    border: solid 3px black;
+    background-color: rgb(182, 104, 104);
+    border-radius: 75px 75px 0px 0px;
+}
+
+.nose{
+    width: 50px;
+    height: 25px;
+    border: solid 2px black;
+    background-color: pink;
+    position: relative;
+    left: 35px;
+    border-radius:50% ;
+}
+
+.left-eye
+{
+    width: 7px;
+    height: 35px;
+    border: solid 2px black;
+    border-radius:50%;
+    position: relative;
+    z-index: 1;
+    left: 35px;
+    top: 35px;
+    background-color: black;
+    
+}
+
+.right-eye
+{
+    width: 7px;
+    height: 35px;
+    border: solid 2px black;
+    background-color: black;
+    position: relative;
+    z-index: 1;
+    left: 75px;
+    top: -5px;
+    border-radius:50% ;
+}
+
+#inner-left {
+    width: 2px;
+    height: 2px;
+    border: solid 1px white;
+    border-radius: 2px;
+    position: relative;
+    left: 2px;
+    top: 2px;
+    background-color: white;
+}
+
+#inner-right {
+    width: 2px;
+    height: 2px;
+    border: solid 1px white;
+    border-radius: 2px;
+    position: relative;
+    left: 2px;
+    top: 2px;
+    background-color: white;
+}
+
+.rocks{
+    width: 25px;
+    position: absolute;
+    height: 25px;
+    border: solid 2px tan;
+    background-color: grey;
+    border-radius: 50px;
+    top: 280px;
+    left: 25px;
+}
+.rocks1{
+    width: 25px;
+    position: absolute;
+    height: 25px;
+    border: solid 2px tan;
+    background-color: grey;
+    border-radius: 50px;
+    top: 280px;
+    left: 50px;
+}
+.rocks2{
+    width: 25px;
+    position: absolute;
+    height: 25px;
+    border: solid 2px tan;
+    background-color: grey;
+    border-radius: 50px;
+    top: 280px;
+    left: 75px;
+}
+.rocks3{
+    width: 25px;
+    position: absolute;
+    height: 25px;
+    border: solid 2px tan;
+    background-color: grey;
+    border-radius: 50px;
+    top: 280px;
+    left: 100px;
+}
+.rocks4{
+    width: 25px;
+    position: absolute;
+    height: 25px;
+    border: solid 2px tan;
+    background-color: grey;
+    border-radius: 50px;
+    top: 280px;
+    left: 125px;
+}
+.rocks5{
+    width: 25px;
+    position: absolute;
+    height: 25px;
+    border: solid 2px tan;
+    background-color: grey;
+    border-radius: 50px;
+    top: 280px;
+    left: 150px;
+}
+.rocks6{
+    width: 25px;
+    position: absolute;
+    height: 25px;
+    border: solid 2px tan;
+    background-color: grey;
+    border-radius: 50px;
+    top: 280px;
+    left: 175px;
+}
+.rocks7{
+    width: 25px;
+    position: absolute;
+    height: 25px;
+    border: solid 2px tan;
+    background-color: grey;
+    border-radius: 50px;
+    top: 280px;
+    left: 200px;
+}
+.rocks8{
+    width: 25px;
+    position: absolute;
+    height: 25px;
+    border: solid 2px tan;
+    background-color: grey;
+    border-radius: 50px;
+    top: 280px;
+    left: 225px;
+}
